@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 [ReCraft](#)
+### 🌿 ReCraft
 A gamified platform that rewards eco-friendly actions with GreenBits and promotes sustainable product consumption through verified metrics.
 
 ### ⚡ DISHA
@@ -96,7 +96,7 @@ An AR-powered system to compare and visualize cranes for industrial and construc
   <a href="mailto:sync.with.saksham@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="./Assets/resume4.0.pdf"><img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="./Assets/resume4.0.pdf" download><img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 </p>
 
