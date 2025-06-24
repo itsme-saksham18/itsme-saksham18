@@ -48,7 +48,7 @@ An AR-powered system to compare and visualize cranes for industrial and construc
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,java,bootstrap,tailwind,express,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,java,bootstrap,tailwind,express,vercel,autocad,django,figma,idea,md,netlify,notion,postman,powershell" />
 </p>
 
 ---
