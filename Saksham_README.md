@@ -7,12 +7,12 @@
 <h3 align="center">Actor by heart, Engineer by brain</h3>
 <h5 align="center">God's Child</h5>
 <p align="center">
-  <img src="./Assets/me.jpg" width="150" style="border-radius: 50%;" alt="Saksham's Profile Picture"/>
+  <img src="./Assets/me.jpg" width="200" style="border-radius: 50%;" alt="Saksham's Profile Picture"/>
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F7DC6F&width=600&lines=Creating+Impact+with+Code+%26+Character;Balancing+Art+%26+AI;Engineer+by+Brain,+Actor+by+Heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=5D3FD3&width=600&lines=Creating+Impact+with+Code+%26+Character;Balancing+Art+%26+AI;Engineer+by+Brain,+Actor+by+Heart" alt="Typing SVG" />
 </p>
 
 ---
@@ -108,6 +108,5 @@ An AR-powered system to compare and visualize cranes for industrial and construc
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNhOHIzaWdlOTF4MnZ0cWJnOWppd3N3eG5yZm1zNXo5MXg2bzQ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iicDrNGWxHmDrIni6j/giphy.gif" width="400px" />
-</p>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #1e3c72, #2a5298);" />
+<p align="center"><strong>Thanks for scrolling! 🚀</strong></p>
