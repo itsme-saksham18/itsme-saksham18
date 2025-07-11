@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 ReCraft(https://recraft.onrender.com/)
+### 🌿 [ReCraft](https://recraft.onrender.com/)
 A gamified platform that rewards eco-friendly actions with GreenBits and promotes sustainable product consumption through verified metrics.
 
 ### ⚡ DISHA
