@@ -23,7 +23,7 @@
   👉 **[Projects ↓](#signature-projects)**  
 - Equipped with a strong and diverse **technical skill set** across backend, frontend, cloud, databases, Java enterprise tech, and Chrome extension development — detailed in the  
   👉 **[Skills ↓](#skills-tech-stack)**  
-- Hackathon achiever — **SIH 2024 Semi-Finalist**, **Top 4 NHAI Hackathon**, **Top 18 Dynamics Hackathon**, **Top 27 Tekathon**, and more listed in the  
+- A multi-domain achiever with a track record of excellence across academics, real-world engineering projects, innovation work, and impactful technical initiatives. Check out all my achievements
   👉 **[Achievements ↓](#achievements)**  
 - Currently exploring and learning in depth about **Operating Systems, System Design, Containerization, AIML, Data Science and Analysis, and Database Optimization**
 
