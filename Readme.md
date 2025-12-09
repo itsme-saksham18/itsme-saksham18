@@ -33,24 +33,24 @@
 ##  Skills & Tech Stack
 
 ### 🔹 Languages  
-**C • C++ • Python • JavaScript • Java • R**
+C • C++ • Python • JavaScript • Java • R
 
 ### 🔹 Backend & Server-Side  
-**Node.js • Express.js • Next.js • Spring Boot • FastAPI • REST APIs • Authentication • MVC Architecture • Real-time Communication Models •  
-Servlet • JSP • Hibernate**
+Node.js • Express.js • Next.js • Spring Boot • FastAPI • REST APIs • Authentication • MVC Architecture • Real-time Communication Models •  
+Servlet • JSP • Hibernate
 
 ### 🔹 Frontend  
-**React.js • HTML • CSS • Tailwind • Bootstrap • Responsive UI/UX**
+React.js • HTML • CSS • Tailwind • EJS • Bootstrap • Responsive UI/UX
 
 ### 🔹 Databases  
-**MongoDB • MySQL • PostgreSQL • Oracle • Mongoose • MongoDB Atlas**
+MongoDB • MySQL • PostgreSQL • Oracle • Mongoose • MongoDB Atlas
 
 ### 🔹 Tools, Platforms & DevOps  
-**Git • GitHub • Postman • Hoppscotch • VS Code • IntelliJ IDEA • Firebase • Vercel • Netlify • Notion • AutoCAD • Figma •  
-AWS • Google Cloud Platform (GCP) • Powershell**
+Git • GitHub • Postman • Hoppscotch • VS Code • IntelliJ IDEA • Firebase • Vercel • Netlify • Notion • AutoCAD • Figma •  
+AWS • Google Cloud Platform (GCP) • Powershell
 
 ### 🔹 Chrome Extension Development  
-**Chrome APIs • Background Scripts • Content Scripts • Manifest v3 • Browser Storage • Notification APIs**
+Chrome APIs • Background Scripts • Content Scripts • Manifest v3 • Browser Storage • Notification APIs**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,react,nodejs,express,nextjs,fastapi,spring,mongodb,mysql,postgres,git,github,vscode,idea,postman,vercel,firebase,aws,gcp,figma,notion,bootstrap,tailwind,html,css,django,md,netlify,powershell,autocad" />
@@ -214,7 +214,7 @@ Explore all my repositories, experiments, and collections here:
 
 ---
 
-## Professional Journey & Why Hire Me
+## Professional Journey 
 
 I started my journey with **C, C++ and core DSA**, slowly expanding into  
 **full-stack development, distributed systems, AI-driven applications, and AR-based tools**.  
