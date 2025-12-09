@@ -255,7 +255,7 @@ If you're looking for someone who is:
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="./Assets/resume4.0.pdf" download>
+  <a href="./Assets/Resume.pdf" download>
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 
