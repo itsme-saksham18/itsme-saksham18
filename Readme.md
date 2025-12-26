@@ -177,10 +177,10 @@ Explore all my repositories, experiments, and collections here:
 ## LeetCode & GFG Stats
 
 ### 🟨 LeetCode Profile  
-🔗 **https://leetcode.com/u/sakshammaheshwarii/**
+🔗 **https://leetcode.com/u/itsme-saksham18/**
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sakshammaheshwarii?theme=dark&font=Fira" />
+  <img src="https://leetcard.jacoblin.cool/itsme-saksham18?theme=dark&font=Fira" />
 </p>
 
 ---
