@@ -167,7 +167,7 @@ Explore all my repositories, experiments, and collections here:
 - **Top 18** – Dynamics Hackathon (500+ teams)  
 - **Top 27 / 600** – Tekathon 3.0  
 - Participated in **15+ hackathons** with multiple final rounds, shortlists, and top placements  
-- Solved **400+ DSA problems** across LeetCode, GFG, codeforces, and other platforms  
+- Solved **1000+ DSA problems** across LeetCode, GFG, codeforces, and other platforms  
 - Completed a social internship at **Baba Bansi Wala Vridhasharam**, contributing to community welfare  
 - Achieved **94% in CBSE Class 12** and currently maintaining an **8.685 CGPA** in B.Tech CSE
   
