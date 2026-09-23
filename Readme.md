@@ -191,7 +191,7 @@ Explore all my repositories, experiments, and collections here:
 ---
 
 ### Coding Summary
-- Solved **400+ DSA problems** across LeetCode, GFG, InterviewBit & other platforms  
+- Solved **1000+ DSA problems** across LeetCode, GFG, InterviewBit & other platforms  
 - Strong foundation in **DSA, problem-solving, and algorithmic thinking**  
 - Actively improving consistency through daily practice
 
